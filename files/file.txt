@@ -1,0 +1,8 @@
+python is a very brief and elegant language
+python a
+python b
+python c
+python \d
+python e
+python r
+python is good
